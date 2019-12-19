@@ -16,4 +16,11 @@ xiugai1
 
 My stupid boss still prefers SVN
 
+<<<<<<< HEAD
 master
+=======
+
+hello
+
+
+>>>>>>> featurel
